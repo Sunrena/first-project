@@ -4,4 +4,6 @@
     width: 300px;
     margin: 50px auto;
     color: blue;
+    border-color: black;
+    border-style: double;
 }
